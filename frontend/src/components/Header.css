@@ -1,5 +1,5 @@
 .header {
-  background-image: url("C:/Users/Andrei/Desktop/Casa/casa1.jpg");
+  background-image: url("../Images/casa1.jpg");
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -24,7 +24,7 @@
 }
 
 .logo {
-  font-size: 20rem;
+  font-size: 2rem;
   color: #ffffff;
 }
 
